@@ -21,9 +21,10 @@ This project is an E-commerce application built using Java & Hibernate and Intel
 ## Setup and Installation
 
 ### Prerequisites
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 8 or higher (version 13 or 15 will be best)
 - Intellij IDEA (or any other Java IDE)
 - MySQL (or other database)
+- Tomcat Server 10 
 
 ### Steps
 
