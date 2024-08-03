@@ -67,12 +67,25 @@ Here are some screenshots of the application:
 
 ![image](https://github.com/user-attachments/assets/381e76ad-5fd2-4655-b7bf-8838438d066f)
 
+### Register & Sign in Page
+- Register page
+![image](https://github.com/user-attachments/assets/229bd910-8012-4afc-99eb-a7e0f3a4b8a8)
 
-Product Page
+- Sign In page
+![image](https://github.com/user-attachments/assets/af0352a4-18db-49ba-8135-067d522494f7)
 
-Shopping Cart
+### Admin Page 
+![image](https://github.com/user-attachments/assets/c44b44ae-5a6c-4cb4-9366-775db9f63792)
 
-Checkout Page
+### Shopping Cart
+- When the bag is empty.
+![image](https://github.com/user-attachments/assets/d9ef3f4b-9c4e-48e1-a711-c86f187b31a0)
+
+- When you have added any product 
+![image](https://github.com/user-attachments/assets/2dc15fa3-3032-4712-9979-ee0cb251e5f8)
+
+### Checkout Page
+![image](https://github.com/user-attachments/assets/6fae200c-a651-4ba9-8e81-dfea2a20eff3)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
