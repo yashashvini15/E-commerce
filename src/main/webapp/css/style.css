@@ -1,0 +1,77 @@
+.custom_bg{
+    background: #4A148C!important;
+}
+
+.navbar-brand h4,
+.navbar-nav .nav-item h5 {
+    display: inline-block;
+    margin: 0;
+    line-height: normal;
+}
+
+.navbar-nav .nav-link {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-nav .nav-item.dropdown .dropdown-toggle {
+    padding-right: 20px;
+}
+
+.navbar-nav .nav-item.dropdown .dropdown-toggle::after {
+    margin-left: 5px;
+}
+
+.admin .card{
+    border: 1px solid;
+}
+
+.list-group-item.active {
+    background: #4A148C!important;
+    border: 1px solid;
+}
+
+/*Toast*/
+
+#toast{
+    min-width: 300px;
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -120px;
+    background: darkslategray;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    z-index: 1;
+    font-size: 18px;
+    visibility: hidden;
+    box-shadow: 0px 0px 100px deeppink;
+}
+
+#toast.display{
+    visibility: visible;
+    animation: fadiIn 0.5s , fadeOut 0.5s 2.5s;
+}
+
+@keyframes fadeIn {
+    from{
+        bottom: 0;
+        opacity: 0;
+    }
+    to{
+        bottom: 30px;
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    from{
+        bottom: 30px;
+        opacity: 1;
+    }
+    to{
+        bottom: 0;
+        opacity: 0;
+    }
+}
