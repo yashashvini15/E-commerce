@@ -60,6 +60,20 @@ This project is an E-commerce application built using Java & Hibernate and Intel
 
 -Browse products, add them to your cart, and proceed to checkout.
 
+## Screenshots
+Here are some screenshots of the application:
+
+### Home Page
+
+![image](https://github.com/user-attachments/assets/381e76ad-5fd2-4655-b7bf-8838438d066f)
+
+
+Product Page
+
+Shopping Cart
+
+Checkout Page
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
