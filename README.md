@@ -12,9 +12,8 @@ This project is an E-commerce application built using Java & Hibernate and Intel
 
 ## Technologies Used
 - Java
-- Intellij IDEA & MySQL Workbench 
-- Spring Boot (if applicable)
-- Hibernate (if applicable)
+- Intellij IDEA & MySQL Workbench
+- Hibernate 
 - MySQL (or other database)
 - Servlet & JSP
 
